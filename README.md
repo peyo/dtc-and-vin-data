@@ -13,7 +13,7 @@
 
 1. dtc
     - Add more car makes.
-      - Add different dtc codes types, such as c, b, and u type codes.
+    - Add different dtc codes types, such as c, b, and u type codes.
   
 2. vin
     - Add car model.
