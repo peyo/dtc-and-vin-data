@@ -3,18 +3,18 @@
 # Data currently includes
 
 1. dtc
-  - p
-    - Genertic, Toyota, Honda, GM
+    - p
+      - Genertic, Toyota, Honda, GM
     
 2. vin
-  - wmi
+    - wmi
 
 # Next Steps
 
 1. dtc
-  - Add more car makes.
-  - Add different dtc codes types, such as c, b, and u type codes.
+    - Add more car makes.
+      - Add different dtc codes types, such as c, b, and u type codes.
   
 2. vin
-  - Add car model.
-  - Add where car is made in.
+    - Add car model.
+     - Add where car is made in.
