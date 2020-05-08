@@ -1,0 +1,2166 @@
+ [
+   {
+     "vin": "137",
+     "make": "Hummer"
+   },
+   {
+     "vin": "177",
+     "make": "Thomas"
+   },
+   {
+     "vin": "478",
+     "make": "Honda"
+   },
+   {
+     "vin": "533",
+     "make": "Howe And Howe"
+   },
+   {
+     "vin": "10T",
+     "make": "Oshkosh"
+   },
+   {
+     "vin": "11V",
+     "make": "Ottawa"
+   },
+   {
+     "vin": "15G",
+     "make": "Gillig"
+   },
+   {
+     "vin": "17N",
+     "make": "John Deere"
+   },
+   {
+     "vin": "16V",
+     "make": "Bix Tex"
+   },
+   {
+     "vin": "18X",
+     "make": "WRV"
+   },
+   {
+     "vin": "19U",
+     "make": "Acura"
+   },
+   {
+     "vin": "19V",
+     "make": "Acura"
+   },
+   {
+     "vin": "19X",
+     "make": "Honda"
+   },
+   {
+     "vin": "1A4",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "1A8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "1AC",
+     "make": "AMC"
+   },
+   {
+     "vin": "1AM",
+     "make": "AMC"
+   },
+   {
+     "vin": "1B3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1B4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1B6",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1B7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1B8",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1BA",
+     "make": "Blue Bird"
+   },
+   {
+     "vin": "1BB",
+     "make": "Blue Bird"
+   },
+   {
+     "vin": "1BD",
+     "make": "Blue Bird"
+   },
+   {
+     "vin": "1C3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "1C4",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1C6",
+     "make": "Ram"
+   },
+   {
+     "vin": "1C8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "1C9",
+     "make": "Chance"
+   },
+   {
+     "vin": "1CY",
+     "make": "Crane Carrier"
+   },
+   {
+     "vin": "1D3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1D4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1D5",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1D7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1D8",
+     "make": "Dodge"
+   },
+   {
+     "vin": "1EC",
+     "make": "Fleetwood"
+   },
+   {
+     "vin": "1F1",
+     "make": "Ford"
+   },
+   {
+     "vin": "1F6",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FA",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FB",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FC",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FD",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FE",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FM",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FT",
+     "make": "Ford"
+   },
+   {
+     "vin": "1FU",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "1FV",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "1G1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1G2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "1G3",
+     "make": "Oldsmobile"
+   },
+   {
+     "vin": "1G4",
+     "make": "Buick"
+   },
+   {
+     "vin": "1G5",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "1G6",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "1G8",
+     "make": "Saturn"
+   },
+   {
+     "vin": "1GA",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1GB",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1GC",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1GD",
+     "make": "GMC"
+   },
+   {
+     "vin": "1GE",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "1GF",
+     "make": "Flexible"
+   },
+   {
+     "vin": "1GG",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "1GH",
+     "make": "Oldsmobile"
+   },
+   {
+     "vin": "1GJ",
+     "make": "GMC"
+   },
+   {
+     "vin": "1GK",
+     "make": "GMC"
+   },
+   {
+     "vin": "1GM",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "1GN",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1GT",
+     "make": "GMC"
+   },
+   {
+     "vin": "1GY",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "1HD",
+     "make": "Harley-Davidson"
+   },
+   {
+     "vin": "1HF",
+     "make": "Honda"
+   },
+   {
+     "vin": "1HG",
+     "make": "Honda"
+   },
+   {
+     "vin": "1HS",
+     "make": "International"
+   },
+   {
+     "vin": "1HT",
+     "make": "International"
+   },
+   {
+     "vin": "1HV",
+     "make": "International"
+   },
+   {
+     "vin": "1J4",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1J7",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1J8",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1JC",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1JD",
+     "make": "AMC"
+   },
+   {
+     "vin": "1JT",
+     "make": "Jeep"
+   },
+   {
+     "vin": "1L1",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "1LN",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "1M1",
+     "make": "Mack"
+   },
+   {
+     "vin": "1M2",
+     "make": "Mack"
+   },
+   {
+     "vin": "1M3",
+     "make": "Mack"
+   },
+   {
+     "vin": "1M8",
+     "make": "MCI"
+   },
+   {
+     "vin": "1ME",
+     "make": "Mercury"
+   },
+   {
+     "vin": "1MR",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "1N4",
+     "make": "Nissan"
+   },
+   {
+     "vin": "1N6",
+     "make": "Nissan"
+   },
+   {
+     "vin": "1N9",
+     "make": "Neoplan"
+   },
+   {
+     "vin": "1NK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "1NP",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "1NX",
+     "make": "Toyota"
+   },
+   {
+     "vin": "1P3",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "1P4",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "1P7",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "1P9",
+     "make": "Panoz"
+   },
+   {
+     "vin": "1RF",
+     "make": "Roadmaster"
+   },
+   {
+     "vin": "1S9",
+     "make": "Saleen"
+   },
+   {
+     "vin": "1T8",
+     "make": "Thomas"
+   },
+   {
+     "vin": "1TU",
+     "make": "TMC"
+   },
+   {
+     "vin": "1V1",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "1VW",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "1WA",
+     "make": "Autostar"
+   },
+   {
+     "vin": "1WB",
+     "make": "Autostar"
+   },
+   {
+     "vin": "1WU",
+     "make": "Volvo"
+   },
+   {
+     "vin": "1WV",
+     "make": "Winnebago"
+   },
+   {
+     "vin": "1XK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "1XM",
+     "make": "AMC"
+   },
+   {
+     "vin": "1XP",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "1Y1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "1YV",
+     "make": "Mazda"
+   },
+   {
+     "vin": "1Z3",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "1Z5",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "1Z7",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "1ZV",
+     "make": "Ford"
+   },
+   {
+     "vin": "1ZW",
+     "make": "Mercury"
+   },
+   {
+     "vin": "2A3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2A4",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2A8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2B1",
+     "make": "Orion"
+   },
+   {
+     "vin": "2B3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2B4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2B5",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2B6",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2B7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2B8",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2BC",
+     "make": "Jeep"
+   },
+   {
+     "vin": "2BP",
+     "make": "Ski-Doo"
+   },
+   {
+     "vin": "2BV",
+     "make": "Can-Am"
+   },
+   {
+     "vin": "2BX",
+     "make": "Can-Am"
+   },
+   {
+     "vin": "2C1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2C3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2C4",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2C7",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "2C8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "2CC",
+     "make": "Eagle"
+   },
+   {
+     "vin": "2CK",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "2CM",
+     "make": "AMC"
+   },
+   {
+     "vin": "2CN",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2CT",
+     "make": "GMC"
+   },
+   {
+     "vin": "2D4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2D6",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2D7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2D8",
+     "make": "Dodge"
+   },
+   {
+     "vin": "2E3",
+     "make": "Eagle"
+   },
+   {
+     "vin": "2FA",
+     "make": "Ford"
+   },
+   {
+     "vin": "2FD",
+     "make": "Ford"
+   },
+   {
+     "vin": "2FM",
+     "make": "Ford"
+   },
+   {
+     "vin": "2FT",
+     "make": "Ford"
+   },
+   {
+     "vin": "2FU",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "2FV",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "2FW",
+     "make": "Sterling"
+   },
+   {
+     "vin": "2FZ",
+     "make": "Sterling"
+   },
+   {
+     "vin": "2G0",
+     "make": "GMC"
+   },
+   {
+     "vin": "2G1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2G2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "2G3",
+     "make": "Oldsmobile"
+   },
+   {
+     "vin": "2G4",
+     "make": "Buick"
+   },
+   {
+     "vin": "2G5",
+     "make": "GMC"
+   },
+   {
+     "vin": "2G6",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "2G7",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "2G8",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2GA",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2GB",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2GC",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2GD",
+     "make": "GMC"
+   },
+   {
+     "vin": "2GE",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "2GJ",
+     "make": "GMC"
+   },
+   {
+     "vin": "2GK",
+     "make": "GMC"
+   },
+   {
+     "vin": "2GN",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "2GT",
+     "make": "GMC"
+   },
+   {
+     "vin": "2HG",
+     "make": "Honda"
+   },
+   {
+     "vin": "2HH",
+     "make": "Acura"
+   },
+   {
+     "vin": "2HJ",
+     "make": "Honda"
+   },
+   {
+     "vin": "2HK",
+     "make": "Honda"
+   },
+   {
+     "vin": "2HM",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "2HN",
+     "make": "Acura"
+   },
+   {
+     "vin": "2HS",
+     "make": "International"
+   },
+   {
+     "vin": "2HT",
+     "make": "International"
+   },
+   {
+     "vin": "2J4",
+     "make": "Jeep"
+   },
+   {
+     "vin": "2LM",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "2LN",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "2M2",
+     "make": "Mack"
+   },
+   {
+     "vin": "2ME",
+     "make": "Mercury"
+   },
+   {
+     "vin": "2MH",
+     "make": "Mercury"
+   },
+   {
+     "vin": "2MR",
+     "make": "Mercury"
+   },
+   {
+     "vin": "2NK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "2NP",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "2P3",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "2P4",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "2P5",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "2P9",
+     "make": "Prevost"
+   },
+   {
+     "vin": "2PC",
+     "make": "Prevost"
+   },
+   {
+     "vin": "2S2",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "2S3",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "2T1",
+     "make": "Toyota"
+   },
+   {
+     "vin": "2T2",
+     "make": "Lexus"
+   },
+   {
+     "vin": "2T3",
+     "make": "Toyota"
+   },
+   {
+     "vin": "2V4",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "2V8",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "2WK",
+     "make": "Western Star Trucks"
+   },
+   {
+     "vin": "2WL",
+     "make": "Western Star Trucks"
+   },
+   {
+     "vin": "2XK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "2XM",
+     "make": "Eagle"
+   },
+   {
+     "vin": "2XP",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "3A4",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3A8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3AB",
+     "make": "Dina"
+   },
+   {
+     "vin": "3AL",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "3B3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3B4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3B6",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3B7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3BK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "3BP",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "3C3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3C4",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3C6",
+     "make": "Ram"
+   },
+   {
+     "vin": "3C7",
+     "make": "Ram"
+   },
+   {
+     "vin": "3C8",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3CA",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "3CZ",
+     "make": "Honda"
+   },
+   {
+     "vin": "3D3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3D4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3D5",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3D6",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3D7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "3FA",
+     "make": "Ford"
+   },
+   {
+     "vin": "3FC",
+     "make": "Ford"
+   },
+   {
+     "vin": "3FD",
+     "make": "Ford"
+   },
+   {
+     "vin": "3FE",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "3FR",
+     "make": "Ford"
+   },
+   {
+     "vin": "3FT",
+     "make": "Ford"
+   },
+   {
+     "vin": "3G1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "3G2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "3G4",
+     "make": "Buick"
+   },
+   {
+     "vin": "3G5",
+     "make": "Buick"
+   },
+   {
+     "vin": "3G7",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "3GB",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "3GC",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "3GD",
+     "make": "GMC"
+   },
+   {
+     "vin": "3GE",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "3GK",
+     "make": "GMC"
+   },
+   {
+     "vin": "3GN",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "3GS",
+     "make": "Saturn"
+   },
+   {
+     "vin": "3GT",
+     "make": "GMC"
+   },
+   {
+     "vin": "3GY",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "3H1",
+     "make": "Honda"
+   },
+   {
+     "vin": "3HA",
+     "make": "International"
+   },
+   {
+     "vin": "3HG",
+     "make": "Honda"
+   },
+   {
+     "vin": "3HM",
+     "make": "Honda"
+   },
+   {
+     "vin": "3HS",
+     "make": "International"
+   },
+   {
+     "vin": "3HT",
+     "make": "International"
+   },
+   {
+     "vin": "3JB",
+     "make": "Can-Am"
+   },
+   {
+     "vin": "3LN",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "3MA",
+     "make": "Mercury"
+   },
+   {
+     "vin": "3ME",
+     "make": "Mercury"
+   },
+   {
+     "vin": "3MZ",
+     "make": "Mazda"
+   },
+   {
+     "vin": "3N1",
+     "make": "Nissan"
+   },
+   {
+     "vin": "3N6",
+     "make": "Nissan"
+   },
+   {
+     "vin": "3NA",
+     "make": "Nissan"
+   },
+   {
+     "vin": "3NI",
+     "make": "Nissan"
+   },
+   {
+     "vin": "3NK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "3NM",
+     "make": "Peterbilt"
+   },
+   {
+     "vin": "3P3",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "3TM",
+     "make": "Toyota"
+   },
+   {
+     "vin": "3VW",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "3WK",
+     "make": "Kenworth"
+   },
+   {
+     "vin": "45V",
+     "make": "Utilimaster"
+   },
+   {
+     "vin": "46G",
+     "make": "Gillig"
+   },
+   {
+     "vin": "49H",
+     "make": "Sterling"
+   },
+   {
+     "vin": "4A3",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "4A4",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "4B3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "4C3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "4CD",
+     "make": "Oshkosh"
+   },
+   {
+     "vin": "4DR",
+     "make": "International"
+   },
+   {
+     "vin": "4E3",
+     "make": "Eagle"
+   },
+   {
+     "vin": "4F2",
+     "make": "Mazda"
+   },
+   {
+     "vin": "4F4",
+     "make": "Mazda"
+   },
+   {
+     "vin": "4G1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "4G2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "4GD",
+     "make": "GMC"
+   },
+   {
+     "vin": "4GT",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "4JG",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "4KB",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "4KD",
+     "make": "GMC"
+   },
+   {
+     "vin": "4KL",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "4M2",
+     "make": "Mercury"
+   },
+   {
+     "vin": "4MZ",
+     "make": "Buell"
+   },
+   {
+     "vin": "4N1",
+     "make": "Nissan"
+   },
+   {
+     "vin": "4N2",
+     "make": "Nissan"
+   },
+   {
+     "vin": "4NU",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "4P3",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "4S1",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "4S2",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "4S3",
+     "make": "Subaru"
+   },
+   {
+     "vin": "4S4",
+     "make": "Subaru"
+   },
+   {
+     "vin": "4S6",
+     "make": "Honda"
+   },
+   {
+     "vin": "4S7",
+     "make": "Spartan"
+   },
+   {
+     "vin": "4SL",
+     "make": "Magnum"
+   },
+   {
+     "vin": "4T1",
+     "make": "Toyota"
+   },
+   {
+     "vin": "4T3",
+     "make": "Toyota"
+   },
+   {
+     "vin": "4T4",
+     "make": "Toyota"
+   },
+   {
+     "vin": "4TA",
+     "make": "Toyota"
+   },
+   {
+     "vin": "4US",
+     "make": "BMW"
+   },
+   {
+     "vin": "4UZ",
+     "make": "Freightliner"
+   },
+   {
+     "vin": "4V1",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4V2",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4V4",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4V5",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VA",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VG",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VH",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VL",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VM",
+     "make": "Volvo"
+   },
+   {
+     "vin": "4VZ",
+     "make": "Spartan"
+   },
+   {
+     "vin": "4XA",
+     "make": "Polaris"
+   },
+   {
+     "vin": "54D",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "55S",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "5AS",
+     "make": "GEM"
+   },
+   {
+     "vin": "5B4",
+     "make": "Workhorse"
+   },
+   {
+     "vin": "5CK",
+     "make": "Western Star Trucks"
+   },
+   {
+     "vin": "5FN",
+     "make": "Honda"
+   },
+   {
+     "vin": "5FP",
+     "make": "Honda"
+   },
+   {
+     "vin": "5FR",
+     "make": "Acura"
+   },
+   {
+     "vin": "5FY",
+     "make": "New Flyer"
+   },
+   {
+     "vin": "5GA",
+     "make": "Buick"
+   },
+   {
+     "vin": "5GN",
+     "make": "Hummer"
+   },
+   {
+     "vin": "5GR",
+     "make": "Hummer"
+   },
+   {
+     "vin": "5GT",
+     "make": "Hummer"
+   },
+   {
+     "vin": "5GZ",
+     "make": "Saturn"
+   },
+   {
+     "vin": "5HD",
+     "make": "Harley-Davidson"
+   },
+   {
+     "vin": "5J6",
+     "make": "Honda"
+   },
+   {
+     "vin": "5J8",
+     "make": "Acura"
+   },
+   {
+     "vin": "5KB",
+     "make": "Honda"
+   },
+   {
+     "vin": "5KJ",
+     "make": "Western Star Trucks"
+   },
+   {
+     "vin": "5KK",
+     "make": "Western Star Trucks"
+   },
+   {
+     "vin": "5LM",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "5LT",
+     "make": "Lincoln"
+   },
+   {
+     "vin": "5N1",
+     "make": "Nissan"
+   },
+   {
+     "vin": "5N3",
+     "make": "Infiniti"
+   },
+   {
+     "vin": "5NM",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "5NP",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "5PV",
+     "make": "Hino"
+   },
+   {
+     "vin": "5S3",
+     "make": "Saab"
+   },
+   {
+     "vin": "5SX",
+     "make": "Amercian LeFrance"
+   },
+   {
+     "vin": "5T4",
+     "make": "Workhorse"
+   },
+   {
+     "vin": "5TB",
+     "make": "Toyota"
+   },
+   {
+     "vin": "5TD",
+     "make": "Toyota"
+   },
+   {
+     "vin": "5TE",
+     "make": "Toyota"
+   },
+   {
+     "vin": "5TF",
+     "make": "Toyota"
+   },
+   {
+     "vin": "5UM",
+     "make": "BMW"
+   },
+   {
+     "vin": "5UX",
+     "make": "BMW"
+   },
+   {
+     "vin": "5Y2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "5YM",
+     "make": "BMW"
+   },
+   {
+     "vin": "5YF",
+     "make": "Toyota"
+   },
+   {
+     "vin": "5XX",
+     "make": "Kia"
+   },
+   {
+     "vin": "5Z6",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "6G1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "6G3",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "6G2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "6MM",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "6MP",
+     "make": "Mercury"
+   },
+   {
+     "vin": "9BF",
+     "make": "Ford"
+   },
+   {
+     "vin": "9BW",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "9DW",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "J81",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "J87",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "J8B",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "J8D",
+     "make": "GMC"
+   },
+   {
+     "vin": "J8Z",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "JA3",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JA4",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JA7",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JAA",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "JAB",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "JAC",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "JAE",
+     "make": "Acura"
+   },
+   {
+     "vin": "JAL",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "JB3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "JB4",
+     "make": "Dodge"
+   },
+   {
+     "vin": "JB7",
+     "make": "Dodge"
+   },
+   {
+     "vin": "JC2",
+     "make": "Ford"
+   },
+   {
+     "vin": "JD1",
+     "make": "Daihatsu"
+   },
+   {
+     "vin": "JD2",
+     "make": "Daihatsu"
+   },
+   {
+     "vin": "JE3",
+     "make": "Eagle"
+   },
+   {
+     "vin": "JF1",
+     "make": "Subaru"
+   },
+   {
+     "vin": "JF2",
+     "make": "Subaru"
+   },
+   {
+     "vin": "JF3",
+     "make": "Subaru"
+   },
+   {
+     "vin": "JF4",
+     "make": "Saab"
+   },
+   {
+     "vin": "JG1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "JG7",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "JGC",
+     "make": "Geo"
+   },
+   {
+     "vin": "JH2",
+     "make": "Honda"
+   },
+   {
+     "vin": "JH3",
+     "make": "Honda"
+   },
+   {
+     "vin": "JH4",
+     "make": "Acura"
+   },
+   {
+     "vin": "JHB",
+     "make": "Hino"
+   },
+   {
+     "vin": "JHG",
+     "make": "Honda"
+   },
+   {
+     "vin": "JHL",
+     "make": "Honda"
+   },
+   {
+     "vin": "JHM",
+     "make": "Honda"
+   },
+   {
+     "vin": "JJ3",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "JK1",
+     "make": "Kawasaki"
+   },
+   {
+     "vin": "JK3",
+     "make": "Kawasaki"
+   },
+   {
+     "vin": "JKA",
+     "make": "Kawasaki"
+   },
+   {
+     "vin": "JKB",
+     "make": "Kawasaki"
+   },
+   {
+     "vin": "JL6",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JLS",
+     "make": "Sterling"
+   },
+   {
+     "vin": "JM1",
+     "make": "Mazda"
+   },
+   {
+     "vin": "JM2",
+     "make": "Mazda"
+   },
+   {
+     "vin": "JM3",
+     "make": "Mazda"
+   },
+   {
+     "vin": "JN1",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JN3",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JN4",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JN6",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JN8",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JNA",
+     "make": "Nissan"
+   },
+   {
+     "vin": "JNK",
+     "make": "Infiniti"
+   },
+   {
+     "vin": "JNR",
+     "make": "Infiniti"
+   },
+   {
+     "vin": "JNX",
+     "make": "Infiniti"
+   },
+   {
+     "vin": "JP3",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "JP4",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "JP7",
+     "make": "Plymouth"
+   },
+   {
+     "vin": "JR2",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "JS1",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "JS2",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "JS3",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "JS4",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "JSA",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "JT2",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JT3",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JT4",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JT5",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JT6",
+     "make": "Lexus"
+   },
+   {
+     "vin": "JT8",
+     "make": "Lexus"
+   },
+   {
+     "vin": "JTD",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JTE",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JTH",
+     "make": "Lexus"
+   },
+   {
+     "vin": "JTJ",
+     "make": "Lexus"
+   },
+   {
+     "vin": "JTK",
+     "make": "Scion"
+   },
+   {
+     "vin": "JTL",
+     "make": "Scion"
+   },
+   {
+     "vin": "JTM",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JTN",
+     "make": "Toyota"
+   },
+   {
+     "vin": "JW6",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JW7",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "JYA",
+     "make": "Yamaha"
+   },
+   {
+     "vin": "KL1",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "KL2",
+     "make": "Pontiac"
+   },
+   {
+     "vin": "KL4",
+     "make": "Buick"
+   },
+   {
+     "vin": "KL5",
+     "make": "Suzuki"
+   },
+   {
+     "vin": "KL7",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "KLA",
+     "make": "Daewoo"
+   },
+   {
+     "vin": "KM8",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "KL8",
+     "make": "Chevrolet"
+   },
+   {
+     "vin": "KMF",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "KMH",
+     "make": "Hyundai"
+   },
+   {
+     "vin": "KNA",
+     "make": "Kia"
+   },
+   {
+     "vin": "KND",
+     "make": "Hyundai, Kia"
+   },
+   {
+     "vin": "KNJ",
+     "make": "Ford"
+   },
+   {
+     "vin": "KNM",
+     "make": "Nissan"
+   },
+   {
+     "vin": "KPH",
+     "make": "Mitsubishi"
+   },
+   {
+     "vin": "LES",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "LM5",
+     "make": "Isuzu"
+   },
+   {
+     "vin": "LUC",
+     "make": "Honda"
+   },
+   {
+     "vin": "ML3",
+     "make": "Dodge"
+   },
+   {
+     "vin": "MLH",
+     "make": "Honda"
+   },
+   {
+     "vin": "NM0",
+     "make": "Ford"
+   },
+   {
+     "vin": "SA9",
+     "make": "Morgan"
+   },
+   {
+     "vin": "SAJ",
+     "make": "Jaguar"
+   },
+   {
+     "vin": "SAL",
+     "make": "Land Rover"
+   },
+   {
+     "vin": "SAT",
+     "make": "Triumph"
+   },
+   {
+     "vin": "SAX",
+     "make": "Sterling"
+   },
+   {
+     "vin": "SCA",
+     "make": "Rolls-Royce"
+   },
+   {
+     "vin": "SCB",
+     "make": "Bentley"
+   },
+   {
+     "vin": "SCC",
+     "make": "Lotus"
+   },
+   {
+     "vin": "SCF",
+     "make": "Aston Martin"
+   },
+   {
+     "vin": "SDL",
+     "make": "TVR Engineering"
+   },
+   {
+     "vin": "SHH",
+     "make": "Honda"
+   },
+   {
+     "vin": "SHS",
+     "make": "Honda"
+   },
+   {
+     "vin": "SJN",
+     "make": "Nissan"
+   },
+   {
+     "vin": "SMT",
+     "make": "Triumph"
+   },
+   {
+     "vin": "SN1",
+     "make": "Polaris"
+   },
+   {
+     "vin": "TRU",
+     "make": "Audi"
+   },
+   {
+     "vin": "VF1",
+     "make": "Renault"
+   },
+   {
+     "vin": "VF7",
+     "make": "Citroën"
+   },
+   {
+     "vin": "VF3",
+     "make": "Peugeot"
+   },
+   {
+     "vin": "VG6",
+     "make": "Mack"
+   },
+   {
+     "vin": "VNK",
+     "make": "Toyota"
+   },
+   {
+     "vin": "VSS",
+     "make": "Seat"
+   },
+   {
+     "vin": "W04",
+     "make": "Buick"
+   },
+   {
+     "vin": "W06",
+     "make": "Cadillac"
+   },
+   {
+     "vin": "W08",
+     "make": "Saturn"
+   },
+   {
+     "vin": "WA1",
+     "make": "Audi"
+   },
+   {
+     "vin": "WAU",
+     "make": "Audi"
+   },
+   {
+     "vin": "WB1",
+     "make": "BMW"
+   },
+   {
+     "vin": "WBA",
+     "make": "BMW"
+   },
+   {
+     "vin": "WBS",
+     "make": "BMW"
+   },
+   {
+     "vin": "WBX",
+     "make": "BMW"
+   },
+   {
+     "vin": "WD0",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WD1",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WD2",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WD3",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "WD5",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WD8",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WDB",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "WDC",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "WDD",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "WDP",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WDW",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WDX",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WDY",
+     "make": "Dodge"
+   },
+   {
+     "vin": "WF1",
+     "make": "Merkur"
+   },
+   {
+     "vin": "WKK",
+     "make": "Fahrzeugwerke"
+   },
+   {
+     "vin": "WME",
+     "make": "Mercedes-Benz"
+   },
+   {
+     "vin": "WMW",
+     "make": "Mini"
+   },
+   {
+     "vin": "WP0",
+     "make": "Porsche"
+   },
+   {
+     "vin": "WP1",
+     "make": "Porsche"
+   },
+   {
+     "vin": "WUA",
+     "make": "Audi"
+   },
+   {
+     "vin": "WV2",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "WV3",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "WVG",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "WVW",
+     "make": "Volkswagen"
+   },
+   {
+     "vin": "XTA",
+     "make": "Lada"
+   },
+   {
+     "vin": "YB3",
+     "make": "Volvo"
+   },
+   {
+     "vin": "YS3",
+     "make": "Saab"
+   },
+   {
+     "vin": "YV1",
+     "make": "Volvo"
+   },
+   {
+     "vin": "YV2",
+     "make": "Volvo"
+   },
+   {
+     "vin": "YV4",
+     "make": "Volvo"
+   },
+   {
+     "vin": "YV5",
+     "make": "Volvo"
+   },
+   {
+     "vin": "ZA9",
+     "make": "Lamborghini"
+   },
+   {
+     "vin": "ZAM",
+     "make": "Maserati"
+   },
+   {
+     "vin": "ZAR",
+     "make": "Alfa Romeo"
+   },
+   {
+     "vin": "ZC2",
+     "make": "Chrysler"
+   },
+   {
+     "vin": "ZDM",
+     "make": "Ducati"
+   },
+   {
+     "vin": "ZFA",
+     "make": "Fiat"
+   },
+   {
+     "vin": "ZFB",
+     "make": "Fiat"
+   },
+   {
+     "vin": "ZFF",
+     "make": "Ferrari"
+   },
+   {
+     "vin": "ZHW",
+     "make": "Lamborghini"
+   }
+] 

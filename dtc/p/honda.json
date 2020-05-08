@@ -1,0 +1,298 @@
+[
+  {
+    "dtc": "P1106",
+    "description": "Barometric Pressure Circuit Range/Performance"
+  },
+  {
+    "dtc": "P1107",
+    "description": "Barometric Pressure Circuit Low Input"
+  },
+  {
+    "dtc": "P1108",
+    "description": "Barometric Pressure Circuit High Input"
+  },
+  {
+    "dtc": "P1121",
+    "description": "Throttle Position Lower Than Expected"
+  },
+  {
+    "dtc": "P1122",
+    "description": "Throttle Position Higher Than Expected"
+  },
+  {
+    "dtc": "P1128",
+    "description": "MAP Lower Than Expected"
+  },
+  {
+    "dtc": "P1129",
+    "description": "MAP Higher Than Expected"
+  },
+  {
+    "dtc": "P1149",
+    "description": "Primary HO2S (Sensor 1) Circuit Range/Performance Problem"
+  },
+  {
+    "dtc": "P1162",
+    "description": "Primary HO2S (No. 1) Circuit Malfunction"
+  },
+  {
+    "dtc": "P1163",
+    "description": "Primary HO2S (No. 1) Circuit Slow Response"
+  },
+  {
+    "dtc": "P1164",
+    "description": "Primary HO2S (No. 1) Circuit Range/Performance"
+  },
+  {
+    "dtc": "P1165",
+    "description": "Primary HO2S (No. 1) Circuit Range/Performance"
+  },
+  {
+    "dtc": "P1166",
+    "description": "Primary HO2S (No. 1) Heater System Electrical"
+  },
+  {
+    "dtc": "P1167",
+    "description": "Primary HO2S (No. 1) Heater System"
+  },
+  {
+    "dtc": "P1168",
+    "description": "Primary HO2S (No. 1) LABEL Low Input"
+  },
+  {
+    "dtc": "P1169",
+    "description": "Primary HO2S (No. 1) LABEL High Input"
+  },
+  {
+    "dtc": "P1253",
+    "description": "VTEC System Malfunction"
+  },
+  {
+    "dtc": "P1257",
+    "description": "VTEC System Malfunction"
+  },
+  {
+    "dtc": "P1258",
+    "description": "VTEC System Malfunction"
+  },
+  {
+    "dtc": "P1259",
+    "description": "VTEC System Malfunction"
+  },
+  {
+    "dtc": "P1297",
+    "description": "Electrical Load Detector Circuit Low Input"
+  },
+  {
+    "dtc": "P1298",
+    "description": "Electrical Load Detector Circuit High Input"
+  },
+  {
+    "dtc": "P1300",
+    "description": "Multiple Cylinder Misfire Detected"
+  },
+  {
+    "dtc": "P1336",
+    "description": "CSF Sensor Intermittent Interruption"
+  },
+  {
+    "dtc": "P1337",
+    "description": "CSF Sensor No Signal"
+  },
+  {
+    "dtc": "P1359",
+    "description": "CKP/TDC Sensor Connector Disconnection"
+  },
+  {
+    "dtc": "P1361",
+    "description": "Intermittent Interruption In TDC 1 Sensor Circuit"
+  },
+  {
+    "dtc": "P1362",
+    "description": "No Signal In TDC 1 Sensor Circuit"
+  },
+  {
+    "dtc": "P1366",
+    "description": "Intermittent Interruption In TDC 2 Sensor Circuit"
+  },
+  {
+    "dtc": "P1367",
+    "description": "No Signal In TDC 2 Sensor Circuit"
+  },
+  {
+    "dtc": "P1381",
+    "description": "Cylinder Position Sensor Intermittent Interruption"
+  },
+  {
+    "dtc": "P1382",
+    "description": "Cylinder Position Sensor No Signal"
+  },
+  {
+    "dtc": "P1456",
+    "description": "EVAP Emission Control System Leak Detected (Fuel Tank System)"
+  },
+  {
+    "dtc": "P1457",
+    "description": "EVAP Emission Control System Leak Detected (Control Canister System)"
+  },
+  {
+    "dtc": "P1459",
+    "description": "EVAP Emission Purge Flow Switch Malfunction"
+  },
+  {
+    "dtc": "P1486",
+    "description": "Thermostat Range/Performance Problem"
+  },
+  {
+    "dtc": "P1491",
+    "description": "EGR Valve Lift Insufficient Detected"
+  },
+  {
+    "dtc": "P1498",
+    "description": "EGR Valve Lift Sensor High Voltage"
+  },
+  {
+    "dtc": "P1508",
+    "description": "IAC Valve Circuit Failure"
+  },
+  {
+    "dtc": "P1509",
+    "description": "IAC Valve Circuit Failure"
+  },
+  {
+    "dtc": "P1519",
+    "description": "Idle Air Control Valve Circuit Failure"
+  },
+  {
+    "dtc": "P1607",
+    "description": "ECM/PCM Internal Circuit Failure A"
+  },
+  {
+    "dtc": "P1655",
+    "description": "SEAF/SEFA/TMA/TMB Signal Line Failure"
+  },
+  {
+    "dtc": "P1656",
+    "description": "Automatic Transaxle"
+  },
+  {
+    "dtc": "P1660",
+    "description": "Automatic Transaxle FI Signal A Circuit Failure"
+  },
+  {
+    "dtc": "P1676",
+    "description": "FPTDR Signal Line Failure"
+  },
+  {
+    "dtc": "P1678",
+    "description": "FPTDR Signal Line Failure"
+  },
+  {
+    "dtc": "P1681",
+    "description": "Automatic Transaxle FI Signal A Low Input"
+  },
+  {
+    "dtc": "P1682",
+    "description": "Automatic Transaxle FI Signal A High Input"
+  },
+  {
+    "dtc": "P1686",
+    "description": "Automatic Transaxle FI Signal B Low Input"
+  },
+  {
+    "dtc": "P1687",
+    "description": "Automatic Transaxle FI Signal B High Input"
+  },
+  {
+    "dtc": "P1705",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1706",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1738",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1739",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1753",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1758",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1768",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1773",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1785",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1786",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1790",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1791",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1792",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1793",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1794",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1870",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1873",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1879",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1885",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1886",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1888",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1890",
+    "description": "Automatic Transaxle Concerns"
+  },
+  {
+    "dtc": "P1891",
+    "description": "Automatic Transaxle Concerns"
+  }
+]

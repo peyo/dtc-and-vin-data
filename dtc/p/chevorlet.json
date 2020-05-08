@@ -1,0 +1,1634 @@
+[
+  {
+    "dtc": "P1674",
+    "description": "Tachometer Control Circuit"
+  },
+  {
+    "dtc": "P1760",
+    "description": "TCM Supply Voltage Interrupted"
+  },
+  {
+    "dtc": "P1460",
+    "description": "Cooling Fan Control System"
+  },
+  {
+    "dtc": "P1273",
+    "description": "Accelerator Pedal Position Sensor 1"
+  },
+  {
+    "dtc": "P1212",
+    "description": "Mass Air Flow Circuit Intermittent Low"
+  },
+  {
+    "dtc": "P1567",
+    "description": "Active Banking Control Active - Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1203",
+    "description": "(Alt. Fuel) Gas Mass Sensor Circuit High Frequency"
+  },
+  {
+    "dtc": "P1630",
+    "description": "Theft Deterrent Learn Mode Active"
+  },
+  {
+    "dtc": "P1202",
+    "description": "(Alt. Fuel) Gas Mass Sensor Circuit Low Frequency"
+  },
+  {
+    "dtc": "P1120",
+    "description": "Throttle Position (TP) Sensor 1 Circuit"
+  },
+  {
+    "dtc": "P1532",
+    "description": "A/C Evaporator Temp. Sens. Ckt. Low Voltage"
+  },
+  {
+    "dtc": "P1811",
+    "description": "Maximum Adapt and Long Shift"
+  },
+  {
+    "dtc": "P1460",
+    "description": "Misfire Detected With Low Fuel Level"
+  },
+  {
+    "dtc": "P1354",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 4"
+  },
+  {
+    "dtc": "P1237",
+    "description": "Injector Circuit Cylinder 6 Intermittent"
+  },
+  {
+    "dtc": "P1545",
+    "description": "Air Conditioning (A/C) Clutch Relay Control Circuit"
+  },
+  {
+    "dtc": "P1642",
+    "description": "Vehicle Speed Output Circuit"
+  },
+  {
+    "dtc": "P1847",
+    "description": "2-3 Shift Solenoid Circuit High Voltage"
+  },
+  {
+    "dtc": "P1644",
+    "description": "Traction Control Delivered Torque Output Circuit"
+  },
+  {
+    "dtc": "P1112",
+    "description": "Intake Air Temperature (IAT) Sensor Circuit IntermittentLow Voltage"
+  },
+  {
+    "dtc": "P1310",
+    "description": "Ignition Coil 3 Primary Feedback Circuit"
+  },
+  {
+    "dtc": "P1504",
+    "description": "Vehicle Speed Output Circuit"
+  },
+  {
+    "dtc": "P1570",
+    "description": "Traction Control Active - Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1186",
+    "description": "EOT Circuit Performance"
+  },
+  {
+    "dtc": "P1404",
+    "description": "Exhaust Gas Recirculation (EGR) Closed PositionPerformance"
+  },
+  {
+    "dtc": "P1571",
+    "description": "Traction Control Torque Request Circuit"
+  },
+  {
+    "dtc": "P1696",
+    "description": "Remote Keyless Entry Voltage High"
+  },
+  {
+    "dtc": "P1442",
+    "description": "EVAP Vacuum Sw. High Voltage During Ign. On"
+  },
+  {
+    "dtc": "P1851",
+    "description": "Brake Band Apply Solenoid Performance"
+  },
+  {
+    "dtc": "P1370",
+    "description": "IC 4X Reference Circuit Too Many Pulses"
+  },
+  {
+    "dtc": "P1562",
+    "description": "Cruise Vacuum Solenoid"
+  },
+  {
+    "dtc": "P1315",
+    "description": "Ignition Coil 4 Primary Feedback Circuit"
+  },
+  {
+    "dtc": "P1547",
+    "description": "A/C System Performance Degraded"
+  },
+  {
+    "dtc": "P1529",
+    "description": "Heated Windshield Request Problem"
+  },
+  {
+    "dtc": "P1286",
+    "description": "Accelerator Pedal Position Sensor 3 Circuit Performance"
+  },
+  {
+    "dtc": "P1658",
+    "description": "Starter Enable Relay Control Circuit"
+  },
+  {
+    "dtc": "P1335",
+    "description": "CKP Circuit"
+  },
+  {
+    "dtc": "P1632",
+    "description": "Theft Deterrent Fuel Disable Signal Received"
+  },
+  {
+    "dtc": "P1530",
+    "description": "Throttle Actuator Control (TAC) Module Internal Circuit"
+  },
+  {
+    "dtc": "P1873",
+    "description": "TCC Stator Temp. Switch Circuit Low"
+  },
+  {
+    "dtc": "P1575",
+    "description": "Extended Travel Brake Switch Circuit"
+  },
+  {
+    "dtc": "P1374",
+    "description": "3X Reference Circuit"
+  },
+  {
+    "dtc": "P1528",
+    "description": "Governor"
+  },
+  {
+    "dtc": "P1366",
+    "description": "IC Cylinder 6 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1692",
+    "description": "Coolant Gage Circuit High Voltage"
+  },
+  {
+    "dtc": "P1117",
+    "description": "Engine Coolant Temp. Signal Out-Of-Range Low"
+  },
+  {
+    "dtc": "P1818",
+    "description": "TFP Valve Position Sw. - Drive Without Drive Ratio"
+  },
+  {
+    "dtc": "P1188",
+    "description": "EOT Sensor Ckt. High Voltage"
+  },
+  {
+    "dtc": "P1106",
+    "description": "Manifold Absolute Pressure (MAP) Sensor Circuit Intermittent High Voltage"
+  },
+  {
+    "dtc": "P1115",
+    "description": "Engine Coolant Temperature (ECT) Sensor CircuitIntermittent High Voltage"
+  },
+  {
+    "dtc": "P1105",
+    "description": "Secondary Vacuum Sensor Circuit"
+  },
+  {
+    "dtc": "P1433",
+    "description": "Fuel Level Sensor 2 Circuit High Voltage"
+  },
+  {
+    "dtc": "P1740",
+    "description": "Torque Reduction Signal Circuit"
+  },
+  {
+    "dtc": "P1612",
+    "description": "Loss of IPM Serial Data"
+  },
+  {
+    "dtc": "P1107",
+    "description": "Manifold Absolute Pressure (MAP) Sensor Circuit Intermittent Low Voltage"
+  },
+  {
+    "dtc": "P1510",
+    "description": "Throttle Control System Performance - Throttle LimitationActive"
+  },
+  {
+    "dtc": "P1540",
+    "description": "Air Conditioning (A/C) Refrigerant Overpressure - AirConditioning (A/C) Disabled"
+  },
+  {
+    "dtc": "P1228",
+    "description": "Injector Circuit Cylinder 3 Intermittent"
+  },
+  {
+    "dtc": "P1278",
+    "description": "Accelerator Pedal Position Sensor 1 Circuit High Voltage"
+  },
+  {
+    "dtc": "P1121",
+    "description": "Throttle Position (TP) Sensor Circuit Intermittent HighVoltage"
+  },
+  {
+    "dtc": "P1844",
+    "description": "Torque Reduction Signal Circuit Desired By TCM"
+  },
+  {
+    "dtc": "P1509",
+    "description": "Idle Speed High - Idle Air Control (IAC) System NotResponding"
+  },
+  {
+    "dtc": "P1357",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 7"
+  },
+  {
+    "dtc": "P1601",
+    "description": "Serial Comm. Problem With Device 1"
+  },
+  {
+    "dtc": "P1240",
+    "description": "Injector Circuit Cylinder 7 Intermittent"
+  },
+  {
+    "dtc": "P1245",
+    "description": "Intake Plenum Switchover Valve"
+  },
+  {
+    "dtc": "P1860",
+    "description": "TCC PWM Solenoid Circuit Electrical"
+  },
+  {
+    "dtc": "P1564",
+    "description": "Vehicle Acceleration Too High - Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1288",
+    "description": "Accelerator Pedal Position Sensor 3 Circuit High Voltage"
+  },
+  {
+    "dtc": "P1276",
+    "description": "Accelerator Pedal Position Sensor 1 Circuit Performance"
+  },
+  {
+    "dtc": "P1359",
+    "description": "Ignition Coil Group 1 Control Circuit"
+  },
+  {
+    "dtc": "P1682",
+    "description": "Driver 5 Line 2"
+  },
+  {
+    "dtc": "P1114",
+    "description": "Engine Coolant Temperature (ECT) Sensor CircuitIntermittent Low Voltage"
+  },
+  {
+    "dtc": "P1576",
+    "description": "BBV Sensor Ckt. High Voltage"
+  },
+  {
+    "dtc": "P1483",
+    "description": "Engine Cooling System Performance"
+  },
+  {
+    "dtc": "P1271",
+    "description": "Accelerator Pedal Position (APP) Sensor 1-2 Correlation"
+  },
+  {
+    "dtc": "P1673",
+    "description": "Engine Hot Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1380",
+    "description": "Misfire Detected - Rough Road Data Not Available"
+  },
+  {
+    "dtc": "P1864",
+    "description": "Torque Converter Clutch Circuit"
+  },
+  {
+    "dtc": "P1270",
+    "description": "Accelerator Pedal Position Sensor A/D Converter Error"
+  },
+  {
+    "dtc": "P1322",
+    "description": "EI System or Ignition Control Extra or Missing"
+  },
+  {
+    "dtc": "P1346",
+    "description": "Intake Camshaft Position [CMP] Sensor System Performance"
+  },
+  {
+    "dtc": "P1566",
+    "description": "Engine RPM Too High - Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1667",
+    "description": "Reverse Inhibit Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1305",
+    "description": "Ignition Coil 2 Primary Feedback Circuit"
+  },
+  {
+    "dtc": "P1572",
+    "description": "ASR Active Circuit Low Too Long"
+  },
+  {
+    "dtc": "P1421",
+    "description": "Intake Air Low Pressure Switch Circuit High Voltage"
+  },
+  {
+    "dtc": "P1810",
+    "description": "TFP Valve Position Switch Circuit"
+  },
+  {
+    "dtc": "P1154",
+    "description": "HO2S Transition Time Ratio Bank 2 Sensor 1"
+  },
+  {
+    "dtc": "P1887",
+    "description": "TCC Release Switch Circuit"
+  },
+  {
+    "dtc": "P1541",
+    "description": "A/C High Side Over Temperature"
+  },
+  {
+    "dtc": "P1654",
+    "description": "Cruise Control Inhibit Output Circuit"
+  },
+  {
+    "dtc": "P1657",
+    "description": "1-4 Upshift Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1418",
+    "description": "Secondary Air Injection System Relay A Control CircuitHigh"
+  },
+  {
+    "dtc": "P1801",
+    "description": "Performance Selector Switch Failure"
+  },
+  {
+    "dtc": "P1792",
+    "description": "ECM to TCM Engine Coolant Signal"
+  },
+  {
+    "dtc": "P1189",
+    "description": "Engine Oil Pressure (EOP) Switch Circuit"
+  },
+  {
+    "dtc": "P1391",
+    "description": "Wheel Speed Sensor 1 - G - Sensor Circuit Performance"
+  },
+  {
+    "dtc": "P1356",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 6"
+  },
+  {
+    "dtc": "P1624",
+    "description": "Customer Snapshot Requested - Data Available"
+  },
+  {
+    "dtc": "P1578",
+    "description": "BBV Sensor Ckt. Low Vacuum"
+  },
+  {
+    "dtc": "P1480",
+    "description": "Cooling Fan 1 Control Circuit High"
+  },
+  {
+    "dtc": "P1815",
+    "description": "Transmission Range Switch - Start In Wrong Range"
+  },
+  {
+    "dtc": "P1221",
+    "description": "Fuel Pump Secondary Circuit Low"
+  },
+  {
+    "dtc": "P1837",
+    "description": "Kick-Down Switch Failed Short"
+  },
+  {
+    "dtc": "P1743",
+    "description": "TP Signal from ECM"
+  },
+  {
+    "dtc": "P1581",
+    "description": "Cruise Move Circuit High Voltage"
+  },
+  {
+    "dtc": "P1392",
+    "description": "Wheel Speed Sensor 1 - G - Sensor Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1779",
+    "description": "Engine Torque Delivered to TCM Signal"
+  },
+  {
+    "dtc": "P1559",
+    "description": "Cruise Control Power Management Mode"
+  },
+  {
+    "dtc": "P1626",
+    "description": "Theft Deterrent Fuel Enable Signal Not Received"
+  },
+  {
+    "dtc": "P1643",
+    "description": "Engine Speed Output Circuit"
+  },
+  {
+    "dtc": "P1511",
+    "description": "Throttle Control System - Backup System Performance"
+  },
+  {
+    "dtc": "P1171",
+    "description": "Fuel System Lean During Acceleration"
+  },
+  {
+    "dtc": "P1158",
+    "description": "HO2S Bank 2 Sensor 2 Rich or High Voltage"
+  },
+  {
+    "dtc": "P1191",
+    "description": "Intake Air Duct Air Leak"
+  },
+  {
+    "dtc": "P1109",
+    "description": "Secondary Port Throttle System"
+  },
+  {
+    "dtc": "P1144",
+    "description": "HO2S Bank 1 Sensor 3 Rich or High Voltage"
+  },
+  {
+    "dtc": "P1416",
+    "description": "Secondary Air Injection (AIR) System Bank 2"
+  },
+  {
+    "dtc": "P1793",
+    "description": "Transmission Control Module Stack Overrun"
+  },
+  {
+    "dtc": "P1582",
+    "description": "Cruise Direction Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1122",
+    "description": "Throttle Position (TP) Sensor Circuit Intermittent LowVoltage"
+  },
+  {
+    "dtc": "P1032",
+    "description": "HO2S Heater Warm Up Control Circuit Banks 1 and 2 Sensor 1"
+  },
+  {
+    "dtc": "P1285",
+    "description": "Accelerator Pedal Position Sensor 3 Circuit"
+  },
+  {
+    "dtc": "P1614",
+    "description": "Loss of RIM Serial Data"
+  },
+  {
+    "dtc": "P1693",
+    "description": "Tachometer Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1833",
+    "description": "A/T Solenoids Power Circuit - Low Voltage"
+  },
+  {
+    "dtc": "P1141",
+    "description": "HO2S Heater Control Circuit Bank 1 Sensor 2"
+  },
+  {
+    "dtc": "P1587",
+    "description": "Cruise Control Clutch Control Circuit Low"
+  },
+  {
+    "dtc": "P1377",
+    "description": "IC Cam Pulse To 4X Reference Pulse"
+  },
+  {
+    "dtc": "P1225",
+    "description": "Injector Circuit Cylinder 2 Intermittent"
+  },
+  {
+    "dtc": "P1606",
+    "description": "Serial Communication Problem With Device 6"
+  },
+  {
+    "dtc": "P1527",
+    "description": "Transmission Range to Pressure Switch Correlation"
+  },
+  {
+    "dtc": "P1537",
+    "description": "A/C Request Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1132",
+    "description": "HO2S Circuit Low Variance Bank 2 Sensor 1"
+  },
+  {
+    "dtc": "P1376",
+    "description": "Ignition Ground Circuit"
+  },
+  {
+    "dtc": "P1650",
+    "description": "Control Module Output B Circuit"
+  },
+  {
+    "dtc": "P1850",
+    "description": "Brake Band Apply Solenoid Circuit"
+  },
+  {
+    "dtc": "P1621",
+    "description": "Control Module Long Term Memory Performance"
+  },
+  {
+    "dtc": "P1368",
+    "description": "IC Cylinder 8 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1814",
+    "description": "Torque Converter Overstressed"
+  },
+  {
+    "dtc": "P1274",
+    "description": "Injectors Wired Incorrectly"
+  },
+  {
+    "dtc": "P1520",
+    "description": "Transmission Range Switch Circuit"
+  },
+  {
+    "dtc": "P1800",
+    "description": "TCM Power Relay Control Circuit"
+  },
+  {
+    "dtc": "P1250",
+    "description": "Early Fuel Evaporation Heater Circuit"
+  },
+  {
+    "dtc": "P1375",
+    "description": "IC 24X Reference Circuit High Voltage"
+  },
+  {
+    "dtc": "P1617",
+    "description": "Engine Oil Level Switch Circuit"
+  },
+  {
+    "dtc": "P1640",
+    "description": "Driver-1-Input High Voltage"
+  },
+  {
+    "dtc": "P1222",
+    "description": "Injector Control Circuit Intermittent"
+  },
+  {
+    "dtc": "P1323",
+    "description": "IC 24X Reference Circuit Low Frequency"
+  },
+  {
+    "dtc": "P1791",
+    "description": "Transmission Control Module Loop"
+  },
+  {
+    "dtc": "P1835",
+    "description": "Kick-Down Switch Circuit"
+  },
+  {
+    "dtc": "P1275",
+    "description": "Accelerator Pedal Position (APP) Sensor 1 Circuit"
+  },
+  {
+    "dtc": "P1345",
+    "description": "Crankshaft Position (CKP)-Camshaft Position (CMP) Correlation"
+  },
+  {
+    "dtc": "P1155",
+    "description": "HO2S Lean Mean Bank 2 Sensor 1"
+  },
+  {
+    "dtc": "P1156",
+    "description": "HO2S Rich Mean Bank 2 Sensor 1"
+  },
+  {
+    "dtc": "P1282",
+    "description": "Accelerator Pedal Position Sensor 2 Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1358",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 8"
+  },
+  {
+    "dtc": "P1684",
+    "description": "Driver 5 Line 4"
+  },
+  {
+    "dtc": "P1125",
+    "description": "APP System"
+  },
+  {
+    "dtc": "P1243",
+    "description": "Injector Circuit Cylinder 8 Intermittent"
+  },
+  {
+    "dtc": "P1161",
+    "description": "HO2S Heater Control Circuit Bank 2 Sensor 2"
+  },
+  {
+    "dtc": "P1336",
+    "description": "Crankshaft Position (CKP) System Variation Not Learned"
+  },
+  {
+    "dtc": "P1131",
+    "description": "HO2S Circuit Low Variance Bank 1 Sensor 2"
+  },
+  {
+    "dtc": "P1143",
+    "description": "HO2S Bank 1 Sensor 3 Lean System or Low Voltage"
+  },
+  {
+    "dtc": "P1893",
+    "description": "Engine Torque Signal Low Voltage"
+  },
+  {
+    "dtc": "P1515",
+    "description": "Electronic Throttle System Throttle Position"
+  },
+  {
+    "dtc": "P1390",
+    "description": "Wheel Speed Sensor 1 - G - Sensor Circuit"
+  },
+  {
+    "dtc": "P1111",
+    "description": "Intake Air Temperature (IAT) Sensor Circuit Intermittent High Voltage"
+  },
+  {
+    "dtc": "P1560",
+    "description": "Transaxle Not in Drive - Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1118",
+    "description": "Engine Coolant Temp. Signal Out-Of-Range High"
+  },
+  {
+    "dtc": "P1281",
+    "description": "Accelerator Pedal Position Sensor 2 Circuit Performance"
+  },
+  {
+    "dtc": "P1280",
+    "description": "Accelerator Pedal Position (APP) Sensor 2 Circuit"
+  },
+  {
+    "dtc": "P1185",
+    "description": "Engine Oil Temperature Circuit"
+  },
+  {
+    "dtc": "P1272",
+    "description": "Accelerator Pedal Position Sensor 2"
+  },
+  {
+    "dtc": "P1637",
+    "description": "Generator L-Terminal Circuit"
+  },
+  {
+    "dtc": "P1603",
+    "description": "Loss of SDM Serial Data"
+  },
+  {
+    "dtc": "P1633",
+    "description": "Ignition 0 Switch Circuit"
+  },
+  {
+    "dtc": "P1615",
+    "description": "Loss of VTD Serial Data"
+  },
+  {
+    "dtc": "P1868",
+    "description": "Transmission Fluid Life"
+  },
+  {
+    "dtc": "P1660",
+    "description": "Cooling Fan Control Circuits"
+  },
+  {
+    "dtc": "P1675",
+    "description": "EVAP Vent Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1574",
+    "description": "Stoplamp Switch Circuit"
+  },
+  {
+    "dtc": "P1260",
+    "description": "Last Test Failed Failed SCC ENTER:More Info."
+  },
+  {
+    "dtc": "P1526",
+    "description": "Minimum Throttle Position Not Learned"
+  },
+  {
+    "dtc": "P1517",
+    "description": "Electronic Throttle Module"
+  },
+  {
+    "dtc": "P1165",
+    "description": "HO2S Cross Counts Bank 2 Sensor 3"
+  },
+  {
+    "dtc": "P1136",
+    "description": "HO2S Rich Mean Bank 1 Sensor 1"
+  },
+  {
+    "dtc": "P1140",
+    "description": "HO2S Transition Time Ratio Bank 1 Sensor 2"
+  },
+  {
+    "dtc": "P1812",
+    "description": "Transmission Over Temperature Condition"
+  },
+  {
+    "dtc": "P1119",
+    "description": "ECT Signal Out-Of-Range With TFT Sensor"
+  },
+  {
+    "dtc": "P1655",
+    "description": "EVAP Purge Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1363",
+    "description": "IC Cylinder 3 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1170",
+    "description": "Bank to Bank Fuel TrimOffset"
+  },
+  {
+    "dtc": "P1524",
+    "description": "Throttle Closed Position Performance"
+  },
+  {
+    "dtc": "P1501",
+    "description": "Theft Deterrent System"
+  },
+  {
+    "dtc": "P1108",
+    "description": "BARO to MAP Sensor Comparison Too High"
+  },
+  {
+    "dtc": "P1503",
+    "description": "Theft Deterrent Fuel Enable Signal Not Correct"
+  },
+  {
+    "dtc": "P1665",
+    "description": "Driver 3 Line 5"
+  },
+  {
+    "dtc": "P1600",
+    "description": "TCM Internal Watchdog Operation"
+  },
+  {
+    "dtc": "P1795",
+    "description": "CAN Bus - Throttle Body Position"
+  },
+  {
+    "dtc": "P1508",
+    "description": "Idle Speed Low - Idle Air Control (IAC) System NotResponding"
+  },
+  {
+    "dtc": "P1816",
+    "description": "TFP Valve Position Sw. - Park/Neu. With Drive Ratio"
+  },
+  {
+    "dtc": "P1607",
+    "description": "Serial Communication Problem With Device 7"
+  },
+  {
+    "dtc": "P1780",
+    "description": "Park/Neutral Position [PNP] Switch Circuit"
+  },
+  {
+    "dtc": "P1874",
+    "description": "TCC Stator Temp. Switch Circuit High"
+  },
+  {
+    "dtc": "P1661",
+    "description": "MIL Control Circuit"
+  },
+  {
+    "dtc": "P1638",
+    "description": "Generator F-Terminal Circuit"
+  },
+  {
+    "dtc": "P1680",
+    "description": "Driver 5"
+  },
+  {
+    "dtc": "P1555",
+    "description": "Electronic Variable Orifice Output"
+  },
+  {
+    "dtc": "P1544",
+    "description": "A/C Refrigerant Condition Very Low"
+  },
+  {
+    "dtc": "P1623",
+    "description": "Transmission Temp Pull-Up Resistor"
+  },
+  {
+    "dtc": "P1613",
+    "description": "Loss of DIM Serial Data"
+  },
+  {
+    "dtc": "P1523",
+    "description": "Throttle Closed Position Performance"
+  },
+  {
+    "dtc": "P1137",
+    "description": "HO2S Bank 1 Sensor 2 Lean System or Low Voltage"
+  },
+  {
+    "dtc": "P1823",
+    "description": "Internal Mode Switch Circuit P Low"
+  },
+  {
+    "dtc": "P1627",
+    "description": "A/D Performance"
+  },
+  {
+    "dtc": "P1670",
+    "description": "Driver 4"
+  },
+  {
+    "dtc": "P1201",
+    "description": "(Alt. Fuel) Gas Mass Sensor Circuit Range/Performance"
+  },
+  {
+    "dtc": "P1663",
+    "description": "Oil Life Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1822",
+    "description": "Internal Mode Switch Circuit B High"
+  },
+  {
+    "dtc": "P1631",
+    "description": "Theft Deterrent Start Enable Signal Not Correct"
+  },
+  {
+    "dtc": "P1586",
+    "description": "Cruise Control Brake Switch 2 Circuit"
+  },
+  {
+    "dtc": "P1647",
+    "description": "Driver 1 Line 7"
+  },
+  {
+    "dtc": "P1656",
+    "description": "Driver 2 Line 6"
+  },
+  {
+    "dtc": "P1258",
+    "description": "Engine Coolant Overtemperature - Protection Mode Active"
+  },
+  {
+    "dtc": "P1687",
+    "description": "Driver 5 Line 7"
+  },
+  {
+    "dtc": "P1558",
+    "description": "Cruise Control Servo Indicates Low"
+  },
+  {
+    "dtc": "P1804",
+    "description": "Ground Control Relay"
+  },
+  {
+    "dtc": "P1831",
+    "description": "PC Solenoid Power Circuit - Low Voltage"
+  },
+  {
+    "dtc": "P1629",
+    "description": "Theft Deterrent System - Cranking Signal"
+  },
+  {
+    "dtc": "P1569",
+    "description": "Cruise Servo Stroke High While not in Cruise"
+  },
+  {
+    "dtc": "P1133",
+    "description": "HO2S Insufficient Switching Bank 1 Sensor 1"
+  },
+  {
+    "dtc": "P1518",
+    "description": "Electronic Throttle Module to PCM Communication"
+  },
+  {
+    "dtc": "P1561",
+    "description": "Cruise Vent Solenoid"
+  },
+  {
+    "dtc": "P1500",
+    "description": "Starter Signal Circuit"
+  },
+  {
+    "dtc": "P1367",
+    "description": "IC Cylinder 7 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1700",
+    "description": "Transmission Control Module (TCM) Requested MILIllumination"
+  },
+  {
+    "dtc": "P1820",
+    "description": "Internal Mode Switch Circuit A Low"
+  },
+  {
+    "dtc": "P1843",
+    "description": "1-2 Shift Solenoid Circuit High Voltage"
+  },
+  {
+    "dtc": "P1842",
+    "description": "1-2 Shift Solenoid Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1216",
+    "description": "Fuel Solenoid Response Time Too Short"
+  },
+  {
+    "dtc": "P1792",
+    "description": "Transmission Control Module Reprogrammable Memory"
+  },
+  {
+    "dtc": "P1501",
+    "description": "Vehicle Speed Sensor Circuit Intermittent"
+  },
+  {
+    "dtc": "P1588",
+    "description": "Cruise Control Clutch Control Circuit High"
+  },
+  {
+    "dtc": "P1689",
+    "description": "Delivered Torque Circuit Fault"
+  },
+  {
+    "dtc": "P1535",
+    "description": "A/C High Side Temperature Sensor Circuit"
+  },
+  {
+    "dtc": "P1652",
+    "description": "Powertrain Induced Chassis Pitch Output Circuit"
+  },
+  {
+    "dtc": "P1409",
+    "description": "EGR Vacuum System Leak"
+  },
+  {
+    "dtc": "P1681",
+    "description": "Driver 5 Line 1"
+  },
+  {
+    "dtc": "P1585",
+    "description": "Cruise Control Inhibit Output Circuit"
+  },
+  {
+    "dtc": "P1139",
+    "description": "HO2S Insuff. Switching Bank 1 Sensor 2"
+  },
+  {
+    "dtc": "P1577",
+    "description": "BBV Sensor Ckt. Low Voltage"
+  },
+  {
+    "dtc": "P1163",
+    "description": "HO2S Bank 2 Sensor 3 Lean System or Low Voltage"
+  },
+  {
+    "dtc": "P1423",
+    "description": "Intake Air High Pressure Switch Circuit High Voltage"
+  },
+  {
+    "dtc": "P1645",
+    "description": "Evaporative Emission (EVAP) Vent Solenoid Contorl Circuit"
+  },
+  {
+    "dtc": "P1215",
+    "description": "Ground Fault Detection Indicated"
+  },
+  {
+    "dtc": "P1362",
+    "description": "IC Cylinder 2 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1153",
+    "description": "HO2S Insufficient Switching Bank 2 Sensor 1"
+  },
+  {
+    "dtc": "P1580",
+    "description": "Cruise Move Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1636",
+    "description": "PCM Stack Overrun"
+  },
+  {
+    "dtc": "P1200",
+    "description": "Injector Control Circuit"
+  },
+  {
+    "dtc": "P1676",
+    "description": "Driver 4 Line 6"
+  },
+  {
+    "dtc": "P1538",
+    "description": "A/C Request Circuit High Voltage"
+  },
+  {
+    "dtc": "P1145",
+    "description": "HO2S Cross Counts Bank 1 Sensor 3"
+  },
+  {
+    "dtc": "P1853",
+    "description": "Brake Band Apply Solenoid High Voltage"
+  },
+  {
+    "dtc": "P1287",
+    "description": "Accelerator Pedal Position Sensor 3 Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1619",
+    "description": "Engine Oil Life Monitor Reset Circuit"
+  },
+  {
+    "dtc": "P1420",
+    "description": "Intake Air Low Pressure Switch Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1220",
+    "description": "Throttle Position (TP) Sensor 2 Circuit"
+  },
+  {
+    "dtc": "P1583",
+    "description": "Cruise Direction CircuitHigh Voltage"
+  },
+  {
+    "dtc": "P1548",
+    "description": "A/C Recirculation Circuit"
+  },
+  {
+    "dtc": "P1622",
+    "description": "Cylinder Select"
+  },
+  {
+    "dtc": "P1519",
+    "description": "Throttle Actuator Control (TAC) Module Internal Circuit"
+  },
+  {
+    "dtc": "P1672",
+    "description": "Low Engine Oil Level Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1817",
+    "description": "TFP Valve Position Sw. - Reverse With Drive Ratio"
+  },
+  {
+    "dtc": "P1516",
+    "description": "Throttle Actuator Control (TAC) Module Throttle ActuatorPosition Performance"
+  },
+  {
+    "dtc": "P1219",
+    "description": "Throttle Position Sensor Reference Voltage"
+  },
+  {
+    "dtc": "P1441",
+    "description": "Evaporative Emission (EVAP) System Flow During Non-Purge"
+  },
+  {
+    "dtc": "P1895",
+    "description": "TCM to ECM Torque Reduction Circuit"
+  },
+  {
+    "dtc": "P1324",
+    "description": "Crank RPM Too Low"
+  },
+  {
+    "dtc": "P1187",
+    "description": "EOT Sensor Ckt. Low Voltage"
+  },
+  {
+    "dtc": "P1321",
+    "description": "Electronic Ignition System Fault Line"
+  },
+  {
+    "dtc": "P1584",
+    "description": "Cruise Control Disabled"
+  },
+  {
+    "dtc": "P1826",
+    "description": "Internal Mode Switch Circuit C - High"
+  },
+  {
+    "dtc": "P1894",
+    "description": "Engine Torque Signal High Voltage"
+  },
+  {
+    "dtc": "P1662",
+    "description": "Cruise Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1565",
+    "description": "Cruise Servo Position Sensor"
+  },
+  {
+    "dtc": "P1845",
+    "description": "2-3 Shift Solenoid Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1546",
+    "description": "A/C Clutch Status Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1393",
+    "description": "Wheel Speed Sensor 1 - G - Sensor Circuit High Voltage"
+  },
+  {
+    "dtc": "P1579",
+    "description": "P/N to D/R at High Throttle Angle - Power Reduction ModeActive"
+  },
+  {
+    "dtc": "P1695",
+    "description": "Remote Keyless Entry Circuit Low"
+  },
+  {
+    "dtc": "P1677",
+    "description": "Driver 4 Line 7"
+  },
+  {
+    "dtc": "P1690",
+    "description": "ECM Loop Overrun"
+  },
+  {
+    "dtc": "P1620",
+    "description": "Low Coolant Circuit"
+  },
+  {
+    "dtc": "P1130",
+    "description": "HO2S Circuit Low Variance Bank 1 Sensor 1"
+  },
+  {
+    "dtc": "P1891",
+    "description": "Throttle Position Sensor PWM Signal Low"
+  },
+  {
+    "dtc": "P1360",
+    "description": "Ignition Coil Group 2 Control Circuit"
+  },
+  {
+    "dtc": "P1646",
+    "description": "Evaporative Emission (EVAP) Vent Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1602",
+    "description": "Knock Sensor (KS) Module Performance"
+  },
+  {
+    "dtc": "P1157",
+    "description": "HO2S Bank 2 Sensor 2 Lean System or Low Voltage"
+  },
+  {
+    "dtc": "P1686",
+    "description": "Driver 5 Line 6"
+  },
+  {
+    "dtc": "P1573",
+    "description": "PCM/EBTCM Serial Data Circuit"
+  },
+  {
+    "dtc": "P1884",
+    "description": "TCC Enable/Shift Light Circuit"
+  },
+  {
+    "dtc": "P1683",
+    "description": "Driver 5 Line 3"
+  },
+  {
+    "dtc": "P1217",
+    "description": "Fuel Solenoid Response Time Too Long"
+  },
+  {
+    "dtc": "P1138",
+    "description": "HO2S Bank 1 Sensor 2 Rich or High Voltage"
+  },
+  {
+    "dtc": "P1531",
+    "description": "A/C Low Side Temperature Sensor Fault"
+  },
+  {
+    "dtc": "P1666",
+    "description": "Driver 3 Line 6"
+  },
+  {
+    "dtc": "P1790",
+    "description": "Transmission Control Module Checksum"
+  },
+  {
+    "dtc": "P1214",
+    "description": "Injection Pump Timing Offset"
+  },
+  {
+    "dtc": "P1536",
+    "description": "Engine Coolant Overtemperature - Air Conditioning (A/C)Disabled"
+  },
+  {
+    "dtc": "P1628",
+    "description": "ECT Pull-Up Resistor"
+  },
+  {
+    "dtc": "P1364",
+    "description": "IC Cylinder 4 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1231",
+    "description": "Injector Circuit Cylinder 4 Intermittent"
+  },
+  {
+    "dtc": "P1701",
+    "description": "Trans. MIL Request Circuit"
+  },
+  {
+    "dtc": "P1218",
+    "description": "Injection Pump Calibration Circuit"
+  },
+  {
+    "dtc": "P1563",
+    "description": "Cruise Vehicle Speed/Set Speed Difference Too High"
+  },
+  {
+    "dtc": "P1875",
+    "description": "4WD Low Switch Circuit Electrical"
+  },
+  {
+    "dtc": "P1450",
+    "description": "Barometric Pressure Sensor Circuit"
+  },
+  {
+    "dtc": "P1355",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 5"
+  },
+  {
+    "dtc": "P1825",
+    "description": "Internal Mode Switch - Invalid Range"
+  },
+  {
+    "dtc": "P1611",
+    "description": "Loss of CVRTD Serial Data"
+  },
+  {
+    "dtc": "P1604",
+    "description": "Loss of IPC Serial Data"
+  },
+  {
+    "dtc": "P1514",
+    "description": "Airflow to TP Sensor Correlation High"
+  },
+  {
+    "dtc": "P1691",
+    "description": "Coolant Gage Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1365",
+    "description": "IC Cylinder 5 Not Toggling After Enable"
+  },
+  {
+    "dtc": "P1277",
+    "description": "Accelerator Pedal Position Sensor 1 Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1164",
+    "description": "HO2S Bank 2 Sensor 3 Rich or High Voltage"
+  },
+  {
+    "dtc": "P1671",
+    "description": "Driver 4 Line 1"
+  },
+  {
+    "dtc": "P1871",
+    "description": "Undefined Gear Ratio"
+  },
+  {
+    "dtc": "P1399",
+    "description": "Wheel Speed Sensor 2 - G - Sensor Circuit Intermittent"
+  },
+  {
+    "dtc": "P1116",
+    "description": "ECT Signal Unstable or Intermittent"
+  },
+  {
+    "dtc": "P1685",
+    "description": "Driver 5 Line 5"
+  },
+  {
+    "dtc": "P1159",
+    "description": "HO2S Cross Counts Bank 2 Sensor 2"
+  },
+  {
+    "dtc": "P1634",
+    "description": "Ignition 1 Switch Circuit"
+  },
+  {
+    "dtc": "P1539",
+    "description": "A/C Clutch Status Circuit High Voltage"
+  },
+  {
+    "dtc": "P1353",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 3"
+  },
+  {
+    "dtc": "P1609",
+    "description": "Loss Of TCS Serial Data"
+  },
+  {
+    "dtc": "P1599",
+    "description": "Engine Stall or Near Stall Detected"
+  },
+  {
+    "dtc": "P1653",
+    "description": "Oil Level Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1351",
+    "description": "Ignition Coil Control Circuit High Voltage"
+  },
+  {
+    "dtc": "P1403",
+    "description": "Exhaust Gas Recirculation System Valve 1"
+  },
+  {
+    "dtc": "P1890",
+    "description": "ECM Data Input Circuit"
+  },
+  {
+    "dtc": "P1525",
+    "description": "Throttle Body ServiceRequired"
+  },
+  {
+    "dtc": "P1320",
+    "description": "IC 4X Reference Circuit Intermittent"
+  },
+  {
+    "dtc": "dtc, ",
+    "description": "escription"
+  },
+  {
+    "dtc": "P1639",
+    "description": "5 Volt Reference 2 Circuit"
+  },
+  {
+    "dtc": "P1031",
+    "description": "HO2S Heater Current Monitor Control Circuit Banks 1 and 2 Sensor 1"
+  },
+  {
+    "dtc": "P1605",
+    "description": "Loss of HVAC Serial Data"
+  },
+  {
+    "dtc": "P1625",
+    "description": "TCM System Reset"
+  },
+  {
+    "dtc": "P1870",
+    "description": "Transmission Component Slipping"
+  },
+  {
+    "dtc": "P1396",
+    "description": "Wheel Speed Sensor 2 - G - Sensor Circuit Performance"
+  },
+  {
+    "dtc": "P1892",
+    "description": "Throttle Position Sensor PWM Signal High"
+  },
+  {
+    "dtc": "P1190",
+    "description": "Engine Vacuum Leak"
+  },
+  {
+    "dtc": "P1502",
+    "description": "Theft Deterrent Fuel Enable Signal Not Received"
+  },
+  {
+    "dtc": "P1641",
+    "description": "Malfunction Indicator Lamp (MIL) Control Circuit"
+  },
+  {
+    "dtc": "P1397",
+    "description": "Wheel Speed Sensor 2 - G - Sensor Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1886",
+    "description": "Shift Timing Solenoid"
+  },
+  {
+    "dtc": "P1813",
+    "description": "Torque Control"
+  },
+  {
+    "dtc": "P1113",
+    "description": "Intake Resonance Switchover Solenoid Control Circuit"
+  },
+  {
+    "dtc": "P1257",
+    "description": "Supercharger System Overboost"
+  },
+  {
+    "dtc": "P1410",
+    "description": "Fuel Tank Pressure System"
+  },
+  {
+    "dtc": "P1408",
+    "description": "Intake Manifold Pressure Sensor Circuit"
+  },
+  {
+    "dtc": "P1211",
+    "description": "Mass Air Flow Circuit Intermittent High"
+  },
+  {
+    "dtc": "P1405",
+    "description": "Exhaust Gas Recirculation System Valve 3"
+  },
+  {
+    "dtc": "P1534",
+    "description": "A/C High Side Temp. Sensor Low Voltage"
+  },
+  {
+    "dtc": "P1543",
+    "description": "A/C System Performance"
+  },
+  {
+    "dtc": "P1352",
+    "description": "IC Output High/Pulse Detected when GND_Cyl. 2"
+  },
+  {
+    "dtc": "P1522",
+    "description": "Park/Neutral to Drive/Reverse at High RPM"
+  },
+  {
+    "dtc": "P1533",
+    "description": "A/C Evaporator Temp. Sens. Ckt. High Voltage"
+  },
+  {
+    "dtc": "P1451",
+    "description": "Barometric Press. Sensor Performance"
+  },
+  {
+    "dtc": "P1134",
+    "description": "HO2S Transition Time Ratio Bank 1 Sensor 1"
+  },
+  {
+    "dtc": "P1372",
+    "description": "Crankshaft Position (CKP) Sensor A-B Correlation"
+  },
+  {
+    "dtc": "P1398",
+    "description": "Wheel Speed Sensor 2 - G - Sensor Circuit High Voltage"
+  },
+  {
+    "dtc": "P1554",
+    "description": "Cruise Control Feedback Circuit"
+  },
+  {
+    "dtc": "P1669",
+    "description": "ABS Unit Expected"
+  },
+  {
+    "dtc": "P1371",
+    "description": "IC 4X Reference Circuit Too Few Pulses"
+  },
+  {
+    "dtc": "P1394",
+    "description": "Wheel Speed Sensor 1 - G - Sensor Circuit Intermittent"
+  },
+  {
+    "dtc": "P1781",
+    "description": "Engine Torque Signal Circuit"
+  },
+  {
+    "dtc": "P1651",
+    "description": "Fan 1 Relay Control Circuit"
+  },
+  {
+    "dtc": "P1350",
+    "description": "Ignition Control System"
+  },
+  {
+    "dtc": "P1283",
+    "description": "Accelerator Pedal Position Sensor 2 Circuit High Voltage"
+  },
+  {
+    "dtc": "P1890",
+    "description": "Throttle Position Signal Input"
+  },
+  {
+    "dtc": "P1521",
+    "description": "Transmission Engaged at High Throttle Angle"
+  },
+  {
+    "dtc": "P1694",
+    "description": "Tachometer Circuit High Voltage"
+  },
+  {
+    "dtc": "P1407",
+    "description": "EGR Air Intrusion in Exhaust Supply to EGR Valve"
+  },
+  {
+    "dtc": "P1608",
+    "description": "Serial Communication Problem With Device 8"
+  },
+  {
+    "dtc": "P1406",
+    "description": "EGR Valve Pintle Position Circuit"
+  },
+  {
+    "dtc": "P1234",
+    "description": "Injector Circuit Cylinder 5 Intermittent"
+  },
+  {
+    "dtc": "P1635",
+    "description": "5 Volt Reference Circuit"
+  },
+  {
+    "dtc": "P1361",
+    "description": "Ignition Coil Control Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1852",
+    "description": "Brake Band Apply SolenoidLow Voltage"
+  },
+  {
+    "dtc": "P1415",
+    "description": "Secondary Air Injection (AIR) System Bank 1"
+  },
+  {
+    "dtc": "P1381",
+    "description": "Misfire Detected - No Communication with Brake ControlModule"
+  },
+  {
+    "dtc": "P1135",
+    "description": "HO2S Lean Mean Bank 1 Sensor 1"
+  },
+  {
+    "dtc": "P1542",
+    "description": "A/C System High Pressure High Temperature"
+  },
+  {
+    "dtc": "P1705",
+    "description": "P/N Signal Output Circuit"
+  },
+  {
+    "dtc": "P1300",
+    "description": "Ignitor Circuit"
+  },
+  {
+    "dtc": "P1610",
+    "description": "Loss of PZM Serial Data"
+  },
+  {
+    "dtc": "P1432",
+    "description": "Fuel Level Sensor 2 Circuit Low Voltage"
+  },
+  {
+    "dtc": "P1568",
+    "description": "Cruise Servo Stroke Greater than Commanded in Cruise"
+  },
+  {
+    "dtc": "P1395",
+    "description": "Wheel Speed Sensor 2 - G - Sensor Circuit"
+  },
+  {
+    "dtc": "P1664",
+    "description": "1-4 Upshift Lamp Control Circuit"
+  },
+  {
+    "dtc": "P1836",
+    "description": "Kick-Down Switch Failed Open"
+  },
+  {
+    "dtc": "P1431",
+    "description": "Fuel Level Sensor 2 Circuit Performance"
+  },
+  {
+    "dtc": "P1819",
+    "description": "Internal Mode Switch - No Start/Wrong Range"
+  }
+]
