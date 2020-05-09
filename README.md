@@ -41,4 +41,4 @@ JSON
     
 ## Collaborate?
 
-Leave a message on the readme file.
+Leave a message in the Issues section.
