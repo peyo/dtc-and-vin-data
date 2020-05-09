@@ -9,7 +9,7 @@
 
 ## Data format
 
-*JSON
+JSON
 
 ## Next Steps
 
