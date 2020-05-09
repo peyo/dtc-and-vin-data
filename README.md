@@ -1,3 +1,5 @@
+Beep beep.
+
 ## Currently available data
 
 1. DTC
@@ -20,3 +22,7 @@ JSON
 2. VIN
     - Add car models.
     - Add where car is made in.
+    
+## Collaborate?
+
+Leave a message on the readme file.
