@@ -4,7 +4,7 @@ Beep beep.
 
 1. DTC
     - P
-      - Genertic, Toyota, Honda, GM
+      - Generic, Toyota, Honda, GM
       
 Example:
 ```javascript
