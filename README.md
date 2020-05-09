@@ -5,9 +5,21 @@ Beep beep.
 1. DTC
     - P
       - Genertic, Toyota, Honda, GM
+      
+Example:
+{
+    "dtc": "P1674",
+    "description": "Tachometer Control Circuit"
+}
     
 2. VIN
     - WMI
+    
+Example:
+{
+ "vin": "137",
+ "make": "Hummer"
+}
 
 ## Data format
 
