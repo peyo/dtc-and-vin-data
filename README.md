@@ -21,7 +21,7 @@ Example:
 ```javascript
 {
     "vin": "3TM",
-     "make": "Toyota"
+    "make": "Toyota"
 }
 ```
 
