@@ -1,6 +1,6 @@
 # Beep beep.
 
-You can find Diagnotic Trouble Codes (DTC) in this repo, also used commonly with OBD-II. You can also find World Manufacturer Identifiers (WMI) found within Vehicle Identifier Numbers (VIN).
+You can find Diagnotic Trouble Codes (DTC) in this repo. DTC is a commonly interchanged term with OBD-II. You can also find World Manufacturer Identifiers (WMI) found within Vehicle Identifier Numbers (VIN).
 
 ## Currently available data
 
