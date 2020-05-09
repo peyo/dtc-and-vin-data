@@ -7,10 +7,10 @@ Beep beep.
       - Genertic, Toyota, Honda, GM
       
 Example:
-{
+`<{
     "dtc": "P1674",
     "description": "Tachometer Control Circuit"
-}
+}>`
     
 2. VIN
     - WMI
