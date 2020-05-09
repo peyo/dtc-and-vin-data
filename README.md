@@ -16,12 +16,14 @@ Example:
     
 2. VIN
     - WMI
-    
+
 Example:
+```javascript
 {
- "vin": "137",
- "make": "Hummer"
+    "vin": "3TM",
+     "make": "Toyota"
 }
+```
 
 ## Data format
 
