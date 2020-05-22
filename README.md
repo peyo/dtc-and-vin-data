@@ -31,7 +31,8 @@ JSON
 ## Next Steps
 1. DTC
     - Add more car makes.
-    - Add different dtc codes types, such as C, B, and U type codes.
+    - Add different dtc types, such as C, B, and U type codes.
+    - Add solutions to dtc.
   
 2. VIN
     - Add car models.
