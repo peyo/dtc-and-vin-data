@@ -39,7 +39,7 @@ JSON
     - Add where car is made in.
     
 ## Scraper
-Web scraper using Python and Scrapy:
+I made a web scraper using Python and Scrapy:<br/>
 https://github.com/peyo/obd-scraper
 
 ## Collaborate?
