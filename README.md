@@ -38,5 +38,9 @@ JSON
     - Add car models.
     - Add where car is made in.
     
+## Scraper
+Web scraper using Python and Scrapy:
+https://github.com/peyo/obd-scraper
+
 ## Collaborate?
 Leave a message in the Issues section.
