@@ -1,0 +1,25 @@
+[
+  { 
+    "placement": "0", 
+    "P": "Powertrain",
+    "B": "Body",
+    "C": "Chassis",
+    "U": "Network"
+  },
+  {
+    "placement": "1", 
+    "0": "Generic_(SAE)",
+    "1": "Manufacturer_Specific"
+  },
+  {
+    "placement": "2",
+    "1": "Fuel_And_Air_Metering",
+    "2": "Fuel_And_Air_Metering_(Injector_Circuit_Malfunctions_Only)",
+    "3": "Ignition_System_Or_Misfire",
+    "4": "Auxiliary_Emission_Controls",
+    "5": "Vehicle_Speed_Control_And_Idle_Control_System",
+    "6": "Computer_And_Auxiliary_Outputs",
+    "7": "Transmission",
+    "8": "Transmission"
+  }
+]
