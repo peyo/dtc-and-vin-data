@@ -1,5 +1,5 @@
 # Beep beep.
-You can find diagnotic trouble codes (DTC) in this repo. You can also find world manufacturer identifiers (WMI) paired with vehicle identifier numbers (VIN).
+You can find diagnostic trouble codes (DTC) in this repo. You can also find world manufacturer identifiers (WMI) paired with vehicle identifier numbers (VIN).
 
 ## Currently available data
 1. DTC
@@ -30,8 +30,7 @@ JSON
 
 ## Next Steps
 1. DTC
-    - Add more car makes.
-    - Add different dtc types, such as C, B, and U type codes.
+    - Add different dtc types, such as C, B, and U type codes. Focus on Toyota, Honda, and GM.
     - Add solutions to dtc.
   
 2. VIN
